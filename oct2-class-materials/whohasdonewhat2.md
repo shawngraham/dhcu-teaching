@@ -10,5 +10,6 @@
 - Ross
 - Christina
 - Kasia
+- Ruth
 
 ... turns out, we've done it *all*
