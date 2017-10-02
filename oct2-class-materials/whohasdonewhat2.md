@@ -8,7 +8,7 @@
 - Alvaro
 - Ryan
 - Ross
-- Christina
+- Cristina
 - Kasia
 
 ... turns out, we've done it *all*
