@@ -3,6 +3,8 @@
 1. Fork the dhcu-teaching repository
 2. Clone it to your own machine.
 
+(If you're on PC, you can use our DHBox if you want; there are other options too)
+
 **THEN**
 
 Use `cd` and `ls` to navigate to the oct2 folder. Once you're there,
