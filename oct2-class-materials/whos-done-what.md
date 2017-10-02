@@ -27,4 +27,5 @@ Find someone who:
 - has a BA in Music
 - rides a bike to Carleton
 - is left-handed
+- plays music
 - insert something cool here!
