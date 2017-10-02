@@ -1,4 +1,6 @@
-# Topic Models
+<section data-background="/dhcu-teaching/screenshots/oct2-kandinsky-wordcounts.png"></section>
+
+# Some Visualizations of your Annotations to Date
 
 ---
 
