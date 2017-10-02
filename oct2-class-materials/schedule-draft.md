@@ -1,0 +1,11 @@
+- fathiya - interested for social media topic
+- chelsey - visualization (AUTUMN)
+- ayana - comp creativity
+- kasia - sound
+- ruth - public humanities
+- ryan - crowds
+- kirsten -text analysis or publishing
+- victoria - publishing
+- cristina - mapping
+- alvaro - accessibility & visualization
+1 - shawn - code
