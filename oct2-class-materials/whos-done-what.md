@@ -25,4 +25,6 @@ Find someone who:
 - has a BA in history
 - has a B.Ed
 - has a BA in Music
+- rides a bike to Carleton
+- is left-handed
 - insert something cool here!
