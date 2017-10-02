@@ -92,6 +92,7 @@ word_counts <- documents %>%
 
 custom_stop_words <- c(stop_words$word, 
                        "craftingdigitalhistory.ca",
+                       "workbook.craftingdigitalhistory.ca",
                        "https",
                        "github",
                        "http",
