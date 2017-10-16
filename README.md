@@ -20,4 +20,7 @@ a repository for various materials I want to bring into class from time to time
 
 [ryan](https://github.com/ryanbathurst)
 
+[cristina](https://github.com/cristinawood)
+
+
 
