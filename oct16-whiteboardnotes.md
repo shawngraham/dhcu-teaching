@@ -20,3 +20,5 @@ Analogy: Amino acids (G,T,A,C) come together as Genes, that in turn express some
 - women in code, planned obsolescence, capitalism... power embedded in code. code creating a kind of reality (so capitalism SG: can there be marxist code?) truth.. who gets left out of the narrative?
 
 ----
+
+### other thoughts
