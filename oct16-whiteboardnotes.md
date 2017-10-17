@@ -18,3 +18,5 @@ Analogy: Amino acids (G,T,A,C) come together as Genes, that in turn express some
 - old wine in new bottles, coders=labourers, 
 - code permeates all, yet we are unaware; magic mirror reflecting ourselves to ourselves... unintended consequences: who has the responsibility to fix this mess? truth, truthiness, and fake news, consumers have to do the work <- the platform has offloaded its responsibilities...ethics!! accountability
 - women in code, planned obsolescence, capitalism... power embedded in code. code creating a kind of reality (so capitalism SG: can there be marxist code?) truth.. who gets left out of the narrative?
+
+----
