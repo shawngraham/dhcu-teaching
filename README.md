@@ -4,23 +4,24 @@ a repository for various materials I want to bring into class from time to time
 
 ## Our Github Accounts
 
-[kasiaczarski](github.com/kasiaczarski/)
+[kasiaczarski](https://github.com/kasiaczarski/) [open notebook](https://kasiaczarski.github.io/)
 
-[victoriav93](https://github.com/victoriav93)
+[victoriav93](https://github.com/victoriav93) [open notebook](https://victoriav93.github.io/)
 
-[ChelseyG](https://github.com/ChelseyG)
+[ChelseyG](https://github.com/ChelseyG) [open notebook](chelseyg.github.io/)
 
-[kirstenbussiere](https://github.com/kirstenbussiere/)
+[kirstenbussiere](https://github.com/kirstenbussiere/) [open notebook](https://kirstenbussiere.github.io/)
 
-[thatvargas](https://github.com/thatvargas)
+[thatvargas](https://github.com/thatvargas) [open notebook](https://thatvargas.github.io/)
 
-[ayana](https://github.com/ayana-morgenstern)
+[ayana](https://github.com/ayana-morgenstern) [open notebook](https://ayana-morgenstern.github.io)
 
-[ruth](https://github.com/roostersmiles)
+[ruth](https://github.com/roostersmiles) [open notebook](https://roostersmiles.github.io/)
 
-[ryan](https://github.com/ryanbathurst)
+[ryan](https://github.com/ryanbathurst) [open notebook](https://ryanbathurst.github.io/)
 
-[cristina](https://github.com/cristinawood)
+[cristina](https://github.com/cristinawood) [open notebook](https://cristinawood.github.io/)
 
+[fathiya](https://github.com/FathiyaWarsame) [open notebook](fathiyawarsame.github.io)
 
 
