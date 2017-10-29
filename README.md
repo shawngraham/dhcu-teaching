@@ -22,6 +22,6 @@ a repository for various materials I want to bring into class from time to time
 
 [cristina](https://github.com/cristinawood) [open notebook](https://cristinawood.github.io/)
 
-[fathiya](https://github.com/FathiyaWarsame) [open notebook](fathiyawarsame.github.io)
+[fathiya](https://github.com/FathiyaWarsame) [open notebook](http://fathiyawarsame.github.io)
 
 
