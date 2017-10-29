@@ -8,7 +8,7 @@ a repository for various materials I want to bring into class from time to time
 
 [victoriav93](https://github.com/victoriav93) [open notebook](https://victoriav93.github.io/)
 
-[ChelseyG](https://github.com/ChelseyG) [open notebook](chelseyg.github.io/)
+[ChelseyG](https://github.com/ChelseyG) [open notebook](https://chelseyg.github.io/)
 
 [kirstenbussiere](https://github.com/kirstenbussiere/) [open notebook](https://kirstenbussiere.github.io/)
 
